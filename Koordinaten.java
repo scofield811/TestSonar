@@ -18,7 +18,7 @@ import javafx.stage.Stage;
 
 /**
  * 
- * @author Manuel Stahl
+ * @author Manuel S.
  * @version 1.0.0, 06/2020
  * Koordinatenprogramm
  */
